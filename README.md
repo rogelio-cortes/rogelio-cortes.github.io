@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me rogelio@rogeliocortes.com
 
-More about me on [rogleiocortes.com](https://rogeliocortes.com/).
+More about me on [rogeliocortes.com](https://rogeliocortes.com/).
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rogeliocortes)
 
