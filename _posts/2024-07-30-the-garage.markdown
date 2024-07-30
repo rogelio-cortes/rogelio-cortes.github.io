@@ -22,7 +22,7 @@ technologies-used:
     "MySQL – A robust relational database management system for storing and managing content.",
   ]
 target-audience: 'The primary audience includes individuals looking to develop their personal brand, as well as employees and contributors of "The Garage" by Premil who are involved in content creation and management.'
-ui-ux: :"The application emphasizes user experience, particularly for employees who have the ability to create and manage new posts. The interface is intuitive and designed to streamline content management and user interactions. The experience for subscribers is equally focused on ease of access to valuable articles and subscription updates."
+ui-ux: "The application emphasizes user experience, particularly for employees who have the ability to create and manage new posts. The interface is intuitive and designed to streamline content management and user interactions. The experience for subscribers is equally focused on ease of access to valuable articles and subscription updates."
 challenges: "A major challenge encountered during development was ensuring the application’s responsiveness across different devices. To address this, the code was extensively rewritten to incorporate responsive styling, enhancing the usability of the application on mobile phones and tablets."
 impact: 'Working on "The Garage" reignited a passion for web design and development. The project has been a significant learning experience and has reinforced a commitment to pursuing more engaging and challenging web development projects in the future.'
 demo: https://the-garage-flax.vercel.app
