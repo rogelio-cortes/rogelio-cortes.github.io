@@ -24,7 +24,14 @@ alt: image-alt
 project-date: January 2020
 client: The Client
 category: Web Development
-description: The description of the project
+overview: an overview of the projects
+purpose: purpose of the project
+key-features: array[] of strings to list key features
+technologies-used: array[] of string to list technologies used
+target-audience: description of the target audience
+ui-ux: comemnts on the user interface and experience
+challenges: description of any challenges and solutions
+impact: impact project had on goals
 demo: url for project demonstration
 ---
 ```
