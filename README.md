@@ -1,12 +1,19 @@
-Freelancer Jekyll theme  
-=========================
+# Rogelio Cortes - Self Titled
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+- 👋 Hi, I’m @rogelio-cortes
+- 👀 I’m interested in blockchain and authentication
+- 🌱 I’m currently learning how to build an ai assistant
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me rogelio@rogeliocortes.com
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
+More about me on [rogleiocortes.com](https://rogeliocortes.com/).
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rogeliocortes)
+
+## How to use as a template
+
+- Create posts to display your projects. Use the follow as an example:
+
 ```txt
 ---
 layout: default
@@ -22,11 +29,6 @@ description: The description of the project
 ---
 ```
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
