@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 title: glitch-chips
-date: 2024-07-30
+date: 2024-06-29
 img: switch.png
 alt: Nintendo Switch Picofly mod installation
-project-date: July 2024
+project-date: June 2024
 client: Cortes Digital Solutions
 category: Video Game Console Modding
 overview: "Glitch-Chips is a side business specializing in hardware modifications for Nintendo Switch consoles. A popular service offered includes the installation of the Picofly mod chip, utilizing the PicoFly RP2040. The service also includes setting up the Hekate boot loader, installing Atmosphere custom firmware, and creating an emunand."

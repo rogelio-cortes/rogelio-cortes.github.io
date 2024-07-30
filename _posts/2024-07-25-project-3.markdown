@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 title: self-titled
-date: 2024-07-30
+date: 2024-07-25
 img: portfolio.png
 alt: Portfolio site homepage
 project-date: July 2024
