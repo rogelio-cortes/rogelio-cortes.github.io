@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: the-garage
-date: 2014-07-18
+date: 2024-07-30
 img: the-garage.png
 alt: the garage by premil
 project-date: July 2024
