@@ -1,0 +1,32 @@
+---
+layout: default
+modal-id: 3
+title: self-titled
+date: 2024-07-30
+img: portfolio.png
+alt: Portfolio site homepage
+project-date: July 2024
+client: Personal
+category: Web Development
+overview: "self-titled is a personal portfolio website designed to showcase my projects, skills, and professional experience. The site serves as a digital resume and a platform for potential collaborators and employers to learn more about my work and get in touch."
+purpose: "The primary purpose of 'self-titled' is to present a professional online presence that highlights my expertise, showcases my completed projects, and provides an easy way for interested parties to contact me."
+key-features:
+  [
+    "Project Showcase: A dedicated section to display detailed information about various projects, including descriptions, technologies used, and demo links.",
+    "About Me: An overview of my background, skills, and experience, providing visitors with a comprehensive understanding of my professional journey.",
+    "Contact Form: A simple and effective contact form for visitors to reach out to me for potential collaborations, job opportunities, or inquiries.",
+    "Responsive Design: Ensuring a seamless experience across different devices, including desktops, tablets, and mobile phones.",
+  ]
+technologies-used:
+  [
+    "HTML/CSS – For the structure and styling of the website.",
+    "JavaScript – For interactive elements and dynamic content.",
+    "React.js – For building a responsive and dynamic user interface.",
+    "Node.js – For backend services, including handling contact form submissions.",
+  ]
+target-audience: "Potential employers, clients, collaborators, and anyone interested in learning more about my professional background and projects."
+ui-ux: "The website is designed with a clean and modern aesthetic, prioritizing ease of navigation and accessibility. The layout is intuitive, with clear sections and visual cues guiding users through the content. The responsive design ensures a consistent and pleasant experience across all devices."
+challenges: "One of the challenges was ensuring the site remained lightweight and fast-loading while showcasing a diverse range of projects and media. This was addressed by optimizing images, using efficient coding practices, and employing lazy loading techniques."
+impact: "The 'self-titled' portfolio site has been instrumental in establishing a professional online presence. It has facilitated numerous networking opportunities, leading to new projects and collaborations. It also serves as a continual platform for updating and showcasing ongoing work and accomplishments."
+demo: https://rogeliocortes.com
+---
