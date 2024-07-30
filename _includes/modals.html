@@ -24,8 +24,32 @@
               class="img-responsive img-centered"
               alt="{{ post.alt }}"
             />
-            {% if post.description %}
-            <p class="text-left">{{ post.description }}</p>
+            {% if post.overview %}
+            <h3>Overview</h3>
+            <p class="text-left">{{ post.overview }}</p>
+            {% endif %} {% if post.purpose %}
+            <h3>Purpose</h3>
+            <p class="text-left">{{ post.purpose }}</p>
+            {% endif %} {% if post.key-features %}
+            <h3>Key Features</h3>
+            {% for keyfeature in post.key-features %}
+            <p class="text-left">{{ keyfeature }}</p>
+            {% endfor %} {% endif %} {% if post.technologies-used %}
+            <h3>Technologies Used</h3>
+            {% for technology in post.technologies-used %}
+            <p class="text-left">{{ technology }}</p>
+            {% endfor %} {% endif %} {% if post.target-audience %}
+            <h3>Target Audience</h3>
+            <p class="text-left">{{ post.target-audience }}</p>
+            {% endif %} {% if post.ui-ux %}
+            <h3>Design and User Experience</h3>
+            <p class="text-left">{{ post.ui-ux }}</p>
+            {% endif %} {% if post.challenges %}
+            <h3>Challenges and Solutions</h3>
+            <p class="text-left">{{ post.challenges }}</p>
+            {% endif %} {% if post.impact %}
+            <h3>Impact</h3>
+            <p class="text-left">{{ post.impact }}</p>
             {% endif %} {% if post.demo %}
             <p>
               Check out the demo
