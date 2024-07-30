@@ -31,4 +31,4 @@ demo: url for project demonstration
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/rogelio-cortes/rogelio-cortes.github.io/master/screenshot.png)
