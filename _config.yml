@@ -45,6 +45,8 @@ social:
     url: http://instagram.com/rogeliocortes__
   - title: github
     url: http://github.com/rogelio-cortes
+  - title: linkedin
+    url: http://linkedin.com/in/rogelio-cortes
 
 # Postal address (add as many lines as necessary)
 address:
@@ -52,7 +54,7 @@ address:
   - line: Chicago, IL 60607
 
 # Credits content
-credits: "Im Rogelio Cortes, a software engineer studing at the University of Illinois at Chicago."
+credits: "Written and Developed by Rogelio Cortes. Forked from jeromelachaud's freelancer-theme."
 
 # Build settings
 markdown: kramdown
