@@ -8,5 +8,6 @@ alt: the garage by premil
 project-date: July 2024
 client: Next.js
 category: Web Development
-description: This is where I'll put the information from the garage. Find it here https://the-garage-eta.vercel.app/
+description: This is where I'll put the information from the garage.
+demo: https://the-garage-flax.vercel.app
 ---
