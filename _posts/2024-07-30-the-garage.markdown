@@ -6,7 +6,7 @@ date: 2024-07-30
 img: the-garage.png
 alt: the garage by premil
 project-date: July 2024
-client: Next.js
+client: PreMil
 category: Web Development
 overview: '"The Garage" is a dynamic full-stack web application designed to foster a community of individuals focused on empowering themselves as personal brands. Developed using Next.js and MySQL, the platform provides an engaging and user-friendly experience for both subscribers and content creators within the "The Garage" community by Premil.'
 purpose: "The Garage aims to connect individuals with similar goals and interests, offering a space where they can enhance their personal branding journey. By providing a platform to access insightful articles and subscribe to relevant updates, the application supports users in growing their brands and staying informed."

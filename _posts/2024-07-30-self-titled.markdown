@@ -6,7 +6,7 @@ date: 2024-07-30
 img: portfolio.png
 alt: Portfolio site homepage
 project-date: July 2024
-client: Personal
+client: Cortes Digital Solutions
 category: Web Development
 overview: "self-titled is a personal portfolio website designed to showcase my projects, skills, and professional experience. The site serves as a digital resume and a platform for potential collaborators and employers to learn more about my work and get in touch."
 purpose: "The primary purpose of 'self-titled' is to present a professional online presence that highlights my expertise, showcases my completed projects, and provides an easy way for interested parties to contact me."
