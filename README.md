@@ -19,8 +19,8 @@ More about me on [rogeliocortes.com](https://rogeliocortes.com/).
 layout: default
 modal-id: 1
 date: 2020-01-18
-img: cabin.png
-alt: image-alt
+img: name of file for preview image
+alt: alt of image
 project-date: January 2020
 client: The Client
 category: Web Development
