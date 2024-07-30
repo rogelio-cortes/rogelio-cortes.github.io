@@ -28,5 +28,5 @@ target-audience: "Potential employers, clients, collaborators, and anyone intere
 ui-ux: "The website is designed with a clean and modern aesthetic, prioritizing ease of navigation and accessibility. The layout is intuitive, with clear sections and visual cues guiding users through the content. The responsive design ensures a consistent and pleasant experience across all devices."
 challenges: "One of the challenges was ensuring the site remained lightweight and fast-loading while showcasing a diverse range of projects and media. This was addressed by optimizing images, using efficient coding practices, and employing lazy loading techniques."
 impact: "The 'self-titled' portfolio site has been instrumental in establishing a professional online presence. It has facilitated numerous networking opportunities, leading to new projects and collaborations. It also serves as a continual platform for updating and showcasing ongoing work and accomplishments."
-demo: https://rogeliocortes.com
+# demo: https://rogeliocortes.com
 ---
