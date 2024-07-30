@@ -25,7 +25,7 @@ project-date: January 2020
 client: The Client
 category: Web Development
 description: The description of the project
-
+demo: url for project demonstration
 ---
 ```
 
