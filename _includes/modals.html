@@ -27,7 +27,10 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %} {% if post.demo %}
-            <p>Check out the demo <a href="{{post.demo}}">here</a>.</p>
+            <p>
+              Check out the demo
+              <a href="{{post.demo}}" target="_blank">here</a>.
+            </p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
