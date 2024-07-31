@@ -8,7 +8,7 @@ alt: Nintendo Switch Picofly mod installation
 project-date: June 2024
 client: Cortes Digital Solutions
 category: Video Game Console Modding
-overview: "Glitch-Chips is a side business specializing in hardware modifications for Nintendo Switch consoles. A popular service offered includes the installation of the Picofly mod chip, utilizing the Raspberry Pi RP2040 chip to hack a Nintendo Switch and run any unsigned code, homebrews, dashboards, emulators and more. The service also includes setting up the Hekate boot loader, installing Atmosphere custom firmware, and creating an emunand."
+overview: "Glitch-Chips is a study in hardware modifications pertaining to Nintendo Switch consoles. A popular mod is the installation of the 'hwfly picofly mod chip', utilizing the Raspberry Pi RP2040 chip to hack a Nintendo Switch and run unsigned code, homebrew, dashboards, emulators and more. The installation of the hardware mod is reliant on the setting up of an alternative bootloader (like Hekate) to run custom firmware (like atmosphere)."
 purpose: "The purpose of glitch-chips is to provide Nintendo Switch owners with advanced customization and enhancement options through hardware modding, allowing them to unlock new features and capabilities on their consoles."
 key-features:
   [
@@ -24,7 +24,7 @@ technologies-used:
     "Atmosphere – A custom firmware for the Nintendo Switch that enables homebrew and customization.",
   ]
 target-audience: "Nintendo Switch owners interested in customizing their consoles with advanced hardware modifications and accessing additional features through custom firmware."
-ui-ux: "The modding service focuses on providing a seamless experience, from the initial consultation to the installation process. Customers receive detailed instructions and support for using the installed mods, ensuring a user-friendly experience."
+ui-ux: "Registering your console with glitch-chips allows for you to request hardware modifications on your console. In order to accomplish this, the UI focuses on providing a seamless experience, from the initial consultation to the installation process. Customers receive detailed instructions and support for using the installed mods, ensuring a user-friendly experience."
 challenges: "One challenge faced during the installation process is ensuring the mod chip and software installations are compatible with various hardware versions of the Nintendo Switch. This requires careful verification and testing to avoid potential issues."
 impact: "The glitch-chips project has allowed many Nintendo Switch owners to expand their console's capabilities, offering a unique gaming experience. It has also provided valuable insights into hardware and software modifications, contributing to a deeper understanding of console modding."
 ---
