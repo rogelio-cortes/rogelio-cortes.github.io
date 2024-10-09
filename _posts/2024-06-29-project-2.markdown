@@ -17,7 +17,7 @@ key-features:
     "Atmosphere Custom Firmware: Installation of the Atmosphere custom firmware, enabling access to a wide range of homebrew applications and customizations.",
     "Emunand Creation: Creation of an emunand, allowing users to safely manage and switch between different firmware versions and setups.",
   ]
-technologies-used:
+technology-used:
   [
     "Picofly RP2040 – A microcontroller used in the Picofly mod chip for hardware modding.",
     "Hekate – A boot loader for the Nintendo Switch, used for managing custom firmware and other system operations.",
